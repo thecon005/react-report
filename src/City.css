@@ -1,0 +1,18 @@
+h1 {
+  font-size: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0;
+}
+h2,
+h3 {
+  margin: 0;
+  font-size: 20px;
+}
+h1,
+h2,
+h3 {
+  font-family: "Mukta", sans-serif;
+  color: #fff;
+  text-align: center;
+}

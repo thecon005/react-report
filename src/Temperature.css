@@ -1,0 +1,18 @@
+h4 {
+  font-size: 40px;
+}
+p {
+  margin-top: -5px;
+}
+a {
+  color: #3d8498;
+}
+#celsius,
+#fahrenheit {
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+.advice {
+  text-transform: capitalize;
+}
